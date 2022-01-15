@@ -6,7 +6,7 @@
     "axios": "^0.19.2",
     "cra-template": "1.0.3",
     "dayjs": "^1.8.28",
-    "marked": "^1.1.0",
+    "marked": "^4.0.10",
     "pouchdb": "^7.2.1",
     "pouchdb-browser": "^7.2.1",
     "react": "^16.13.1",
